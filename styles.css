@@ -8,13 +8,14 @@ body {
   margin-bottom: 5px;
   font-weight: bold;
 }
-#clownfish-desc {
+#animal-interesting-fact {
  font-style: italic;
 }
 
 img {
  padding-bottom: 10px;
  padding-right: 10px;
+ width: 300px;
 }
 
 ul {
@@ -29,10 +30,10 @@ span {
   font-weight: bold;
 }
 
-.clownfish-text {
+.animal-information {
  display: block;
  padding: 10px;
- width: 280px;
+ width: 300px;
 }
 
 .border {
@@ -43,7 +44,7 @@ span {
 }
 
 #outer-border {
- width: 300px;
+ width: 320px;
 -webkit-box-shadow: 5px 5px 5px 0px rgba(196,192,196,1);
 -moz-box-shadow: 5px 5px 5px 0px rgba(196,192,196,1);
  box-shadow: 5px 5px 5px 0px rgba(196,192,196,1);
