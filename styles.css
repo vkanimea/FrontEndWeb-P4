@@ -1,0 +1,51 @@
+/* add your CSS here */
+body {
+ font-family: sans-serif;
+}
+
+#title {
+  margin-top: -5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+#clownfish-desc {
+ font-style: italic;
+}
+
+img {
+ padding-bottom: 10px;
+ padding-right: 10px;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+.clownfish-text {
+ display: block;
+ padding: 10px;
+ width: 280px;
+}
+
+.border {
+  border-style: solid;
+  border-width: thin;
+  border-color: grey;
+  padding: 10px;
+}
+
+#outer-border {
+ width: 300px;
+-webkit-box-shadow: 5px 5px 5px 0px rgba(196,192,196,1);
+-moz-box-shadow: 5px 5px 5px 0px rgba(196,192,196,1);
+ box-shadow: 5px 5px 5px 0px rgba(196,192,196,1);
+
+}
