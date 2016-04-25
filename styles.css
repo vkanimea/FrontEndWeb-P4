@@ -8,6 +8,7 @@ body {
   margin-bottom: 5px;
   font-weight: bold;
 }
+
 #animal-interesting-fact {
  font-style: italic;
 }
@@ -18,9 +19,6 @@ img {
  width: 300px;
 }
 
-ul {
-  padding-left: 0px;
-}
 
 li {
   list-style-type: none;
